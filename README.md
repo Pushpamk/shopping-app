@@ -1,13 +1,13 @@
 # shop_app
 
-[1](https://user-images.githubusercontent.com/25183920/74607608-46285e80-50a8-11ea-884b-8d6556a484ca.png)
+![1](https://user-images.githubusercontent.com/25183920/74607608-46285e80-50a8-11ea-884b-8d6556a484ca.png)
 --------------------------------------------------------------------------------------------------------
-[2](https://user-images.githubusercontent.com/25183920/74607609-488ab880-50a8-11ea-80e2-293051686e20.png)
+![2](https://user-images.githubusercontent.com/25183920/74607609-488ab880-50a8-11ea-80e2-293051686e20.png)
 --------------------------------------------------------------------------------------------------------
-[3](https://user-images.githubusercontent.com/25183920/74607610-49234f00-50a8-11ea-87ac-b7777cad3cb3.png)
+![3](https://user-images.githubusercontent.com/25183920/74607610-49234f00-50a8-11ea-87ac-b7777cad3cb3.png)
 --------------------------------------------------------------------------------------------------------
-[4](https://user-images.githubusercontent.com/25183920/74607611-4a547c00-50a8-11ea-86c3-c6d155b3db77.png)
+![4](https://user-images.githubusercontent.com/25183920/74607611-4a547c00-50a8-11ea-86c3-c6d155b3db77.png)
 --------------------------------------------------------------------------------------------------------
-[5](https://user-images.githubusercontent.com/25183920/74607612-4aed1280-50a8-11ea-86d7-e5a61f6292f2.png)
+![5](https://user-images.githubusercontent.com/25183920/74607612-4aed1280-50a8-11ea-86d7-e5a61f6292f2.png)
 --------------------------------------------------------------------------------------------------------
-[6](https://user-images.githubusercontent.com/25183920/74607613-4c1e3f80-50a8-11ea-822e-255433109006.png)
+![6](https://user-images.githubusercontent.com/25183920/74607613-4c1e3f80-50a8-11ea-822e-255433109006.png)
